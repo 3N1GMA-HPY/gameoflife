@@ -14,3 +14,5 @@ A simple little game of life generator & tester for COMP1521 Assignment 1
 
  
 To use: compile and run inside the same directory as your prog.s, life.c files.
+
+Note: Don't forget to change your life.c header from "board1.h" to "board.h"
